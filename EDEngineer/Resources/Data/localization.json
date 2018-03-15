@@ -3432,7 +3432,7 @@
     "Unknown": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "unbekannt",
       "fr": "Inconnu",
       "ru": "Неизвестные",
       "pl": null
@@ -3568,7 +3568,7 @@
     "Heat": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Hitze",
       "fr": "Chaleur",
       "ru": "Теплообмен",
       "pl": null
@@ -3576,7 +3576,7 @@
     "Conductive": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "leitfähig",
       "fr": "Conducteurs",
       "ru": "Проводники",
       "pl": null
@@ -3584,7 +3584,7 @@
     "Capacitors": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Kondensator",
       "fr": "Condensateurs",
       "ru": "Конденсаторы",
       "pl": null
@@ -3616,7 +3616,7 @@
     "Alloys": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Legierungen",
       "fr": "Alliages",
       "ru": "Сплавы",
       "pl": null
@@ -3704,7 +3704,7 @@
     "Human": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Mensch",
       "fr": null,
       "ru": null,
       "pl": null
@@ -3712,7 +3712,7 @@
     "Corrosion Resistant Cargo Rack (2D and 4D)": {
       "es": null,
       "pt": null,
-      "de": null,
+      "de": "Korrosionsbeständiges Frachtgestell (2D und 4D)",
       "fr": null,
       "ru": null,
       "pl": null
